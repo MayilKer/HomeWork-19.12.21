@@ -1,0 +1,14 @@
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\bin\Debug\netcoreapp3.1\HomeWork19.12.21.exe
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\bin\Debug\netcoreapp3.1\HomeWork19.12.21.deps.json
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\bin\Debug\netcoreapp3.1\HomeWork19.12.21.runtimeconfig.json
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\bin\Debug\netcoreapp3.1\HomeWork19.12.21.runtimeconfig.dev.json
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\bin\Debug\netcoreapp3.1\HomeWork19.12.21.dll
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\bin\Debug\netcoreapp3.1\HomeWork19.12.21.pdb
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\obj\Debug\netcoreapp3.1\HomeWork19.12.21.csproj.AssemblyReference.cache
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\obj\Debug\netcoreapp3.1\HomeWork19.12.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\obj\Debug\netcoreapp3.1\HomeWork19.12.21.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\obj\Debug\netcoreapp3.1\HomeWork19.12.21.AssemblyInfo.cs
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\obj\Debug\netcoreapp3.1\HomeWork19.12.21.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\obj\Debug\netcoreapp3.1\HomeWork19.12.21.dll
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\obj\Debug\netcoreapp3.1\HomeWork19.12.21.pdb
+C:\Users\kerim\source\repos\HomeWork19.12.21\HomeWork19.12.21\obj\Debug\netcoreapp3.1\HomeWork19.12.21.genruntimeconfig.cache
